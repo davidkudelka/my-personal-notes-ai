@@ -1,0 +1,16 @@
+  * **Points to introduce the issue**
+    * I would like to express my worry after last all-hands regarding the current situation in Productboard
+    * You are saying that we need to focus on supporting high performing people and we need to move fast and that we should give our best, push through the difficulties and give our best in next 6 months
+    * So to me it seems like everything is extremely urgent, besides rewarding people or appreciating people that are for long time in the company (performance review), where is actually trying to reward high performing people within teams and motivate them to give their best during next 6 months
+    * I am not saying this because I would be begging for money or that money would be the only important thing that is represented by promotion or during performance cycle
+    * In my opinion it is as well about acknowledging high performing people, making sure that company cares about them and make them feel appreciated
+    * So after saying this why are this huge emphasis on super hight performance in next 6 months without actually rewarding those people during last year
+    * I believe that the current situation is quite bad, people that are in company for some time and therefore have probably much higher impact that new hires have 30% lower salary badges, lower salaries that is current market standart (they could theoretically just give up and find different job that will pay them much more)
+    * There was as well off-cycle promotion cycle that was super un-transparent, in my opinion giving promotion to people that were only in hight risk of leaving and didn't get paid last promotion cycle, I believe this just promotes toxic culture that if you don't complain or don't come with better offer you won't get anything
+    * Just hour before the EPD all hands there was presentation about upcoming performance cycle, which will be effective in May and therefore basically in half a year (5 months maybe) and my question is how do you want to keep those people motivated for next 6 months if you are expecting from them top performance
+    * I would like to as well talk about the salary percentile (65%), is this still valid number when you are talking about high performers that should give their best to help out the company.
+  * **Offer solutions**
+    * I would think that trying to think about ways how to express to other people that they are valued for their effort, even when there tough times you can still mention that high performers can get better than 65% percentile of the market value
+    * You can still give people promotion that do job higher than their title, saying that higher salary compensation will follow when company can afford it
+    * You can give people maybe few percentage raise, to everyone, to mention that company now really needs them and values their effort, give them some motivation
+    * you can promise people some benefit if the company will deliver on the enterprise features, let's say one month of salary - not that after those 6 months they will get at best 65% percentile of the market value

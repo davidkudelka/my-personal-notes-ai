@@ -1,0 +1,3 @@
+  * When: [[2020-10-09]]
+  * What happened:
+    * I had a dream where I was a woman playing basketball against some random people but NBA stars as well. I had a really hard time hitting any basket at all, it was super hard to dribble and every time I jumped I took me ages before I was able to land. At some point when I was trying to pass the ball which went to out there started coming steam out of the wifi router which was next to the playing field. At this point, the dream ended.

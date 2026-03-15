@@ -1,0 +1,3 @@
+  * When: [[2020-09-30]]
+  * What happened:
+    * I had dream about Cipher meeting with Yorgos and playing together outside. Suddenly I realised that we are next to building I live in and I can see ants going under ground in my apartment direction. I go home and find hole in the wall where all the insect coming out of. Yorgos and Cipher going in to the hole and disappearing. I am trying to rescue them, I am yelling Ciphers name but it doesn't help. Suddenly some ugly dog coming out of the hole and I am trying to push him back there at this moment I am waking up.

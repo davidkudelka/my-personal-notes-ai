@@ -1,0 +1,1 @@
+  * link to article: https://hasura.io/blog/scaling-frontend-app-teams-using-relay/

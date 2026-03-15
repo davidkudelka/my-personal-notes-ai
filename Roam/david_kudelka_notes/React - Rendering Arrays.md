@@ -1,0 +1,10 @@
+  * tags: #react #rendering-arrays
+  * notes:
+    * Here’s the TL;DR: Every React element accepts a special key prop you can use to help React keep track of elements between updates. If you don’t provide it when rendering a list, React can get things mixed up. The solution is to give each element a unique (to the array) key prop, and then everything will work fine.
+    * Let’s dive in a little deeper:
+    * If you re-render that list with an added item, React doesn’t really know whether you added an item in the middle, beginning, or end. And the same goes for when you remove an item (it doesn’t know whether that happened in the middle, beginning, or end either).
+    * To be clear, *we* know as the developer because we wrote the code, but as far as React is concerned, we simply gave it some react elements before, we gave it some after, and now React is trying to compare the before and after with no knowledge of how the elements got from one position to another.
+    * Sometimes it’s not a big deal, because React’s best-guess is right and it works out ok. However, if any of those React elements represent a component that is maintaining state (like the value of an input or focus state), that can be pretty problematic, which this exercise demonstrates.
+    * To solve this problem, we need to give React a hint so it can associate the old React elements with the new ones we’re giving it due to the change. We do this using a special prop called the key prop.
+    * In this exercise, we have a list of fruit that appear and can be removed. There is state that exists (managed by the browser) in the <input /> for each of the fruit: the input’s value (initialized via the defaultValue prop).
+    * Without a key prop, for all React knows, you removed an input and gave another label different text content, which leads to the bug we’ll see in the exercise.
