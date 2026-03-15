@@ -40,7 +40,7 @@ Current Generali Prémiový Dynamický Fond position: ~930,000 CZK
 **Generali exit strategy — gradual, tranche by tranche:**
 - Investing since 2017, but still actively contributing → recent tranches (< 3 years old) are NOT tax-free yet
 - Exit fee — ✅ 0% confirmed, so no cost to sell at any time
-- ✅ **Stopped monthly contributions (March 2026)** — no new tranches accumulating, clock running on everything held
+- ✅ **Stopped monthly contributions (March 2026)** — was contributing 5,000 CZK/month, now freed up and redirected to DeGiro/XTB ETFs
 - Strategy: wait for each tranche to pass 3-year mark, then sell and move proceeds into iShares S&P 500 (Acc) / Vanguard FTSE All-World (Acc)
 - Redemption: call **+420 281 044 198** (Mon–Fri 8–17) for partial "žádost o odkup" — online portal is read-only (basic version, not Plus)
 - Consult Petra Vanečková on tracking which tranches are tax-free and how to report partial redemptions
