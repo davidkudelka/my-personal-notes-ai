@@ -32,7 +32,7 @@ Monthly snapshots of total investment portfolio across all platforms (values in 
 
 > **Planned action (April 2026):** Liquidate eToro — all stocks pass the 3-year time test (časový test) in April → capital gains tax-free. Funds to be reallocated elsewhere.
 >
-> **Planned action (2026, TBD):** Close Generali Prémiový Dynamický Fond (TER 2.09% = ~19,400 CZK/year in fees). Buying since 2017 → entire position is tax-free under časový test. Exit fee 0%. Reallocate into iShares S&P 500 (Acc) + Vanguard FTSE All-World (Acc).
+> **Planned action (2026+, ongoing):** Gradually exit Generali Prémiový Dynamický Fond (TER 2.09% = ~19,400 CZK/year in fees). Buying since 2017 but still contributing → older tranches are tax-free, recent ones need to wait for 3-year časový test. Exit fee 0%. Sell tranches as they clear, reallocate into iShares S&P 500 (Acc) + Vanguard FTSE All-World (Acc).
 
 ### 2026-03-21 *(pending — fill in this week)*
 - generali current value –

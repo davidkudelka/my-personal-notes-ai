@@ -37,9 +37,10 @@ Current Generali Prémiový Dynamický Fond position: ~930,000 CZK
 
 **Overpaying by ~17,000–18,750 CZK/year** compared to passive ETFs — roughly equivalent to one week of net salary.
 
-**Before closing Generali:**
-- Časový test — ✅ investing since 2017, virtually the entire position is already 3+ years old and tax-free
-- Exit fee — ✅ 0% confirmed
-- No need to drip-sell by tranche — can liquidate in one go
-- Decide where to reallocate: iShares S&P 500 (Acc) and/or Vanguard FTSE All-World (Acc) are the natural targets given existing holdings
-- Worth a quick check with Petra Vanečková before executing, just to confirm no edge cases on newer contributions
+**Generali exit strategy — gradual, tranche by tranche:**
+- Investing since 2017, but still actively contributing → recent tranches (< 3 years old) are NOT tax-free yet
+- Exit fee — ✅ 0% confirmed, so no cost to sell at any time
+- Strategy: sell tranches as they pass the 3-year mark, move proceeds into iShares S&P 500 (Acc) / Vanguard FTSE All-World (Acc)
+- Redemption: via online portal (online.cpinvest.cz) or phone +420 281 044 198 (Mon–Fri 8–17), funds arrive within ~5 business days
+- Each redemption = a partial "žádost o odkup" specifying the amount/number of units to sell
+- Consult Petra Vanečková on tracking which tranches are tax-free and how to report partial redemptions
