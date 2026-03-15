@@ -67,7 +67,7 @@ Prague-wide apartment prices rising ~14% year-over-year.
 
 ### CNB rules (2026, owner-occupied)
 - **LTV:** max 80% (i.e. minimum 20% down payment)
-- **LTV under 36 years old:** up to 90% (10% down payment)
+- **LTV under 36 years old:** up to 90% ✅ **— applies to you (10% down payment)**
 - **DSTI:** max 45% of net monthly income toward all debt payments
 - **DTI:** max 8.5× annual net income
 
@@ -104,35 +104,37 @@ Prague-wide apartment prices rising ~14% year-over-year.
 | Item | Amount |
 |------|--------|
 | Purchase price | 9,000,000 |
-| Down payment (20%) | 1,800,000 |
-| Mortgage | 7,200,000 |
-| Monthly payment @ 4.5%, 30yr | ~36,500 CZK |
-| Monthly payment @ 4.9%, 30yr | ~38,200 CZK |
-| % of conservative income (110k) | **34.7%** — approaching DSTI limit |
-| % of total income (165k) | **23.2%** — comfortable |
+| Down payment (10%, under-36 LTV) | **900,000** ✅ |
+| Mortgage | 8,100,000 |
+| Monthly payment @ 4.5%, 30yr | ~41,000 CZK |
+| Monthly payment @ 4.9%, 30yr | ~43,000 CZK |
+| % of conservative income (110k) | **39%** — under 45% DSTI limit |
+| % of total income (165k) | **26%** — comfortable |
+| Down payment gap | **✅ none — you have ~1,098,000 saved** |
 
 ### Scenario B — 10,000,000 CZK (Vršovice, mid-range ~45m²)
 
 | Item | Amount |
 |------|--------|
 | Purchase price | 10,000,000 |
-| Down payment (20%) | 2,000,000 |
-| Mortgage | 8,000,000 |
-| Monthly payment @ 4.5%, 30yr | ~40,500 CZK |
-| Monthly payment @ 4.9%, 30yr | ~42,400 CZK |
-| % of conservative income (110k) | **38.5%** — still under 45% limit but tight |
-| % of total income (165k) | **25.7%** — fine |
+| Down payment (10%, under-36 LTV) | **1,000,000** ✅ |
+| Mortgage | 9,000,000 |
+| Monthly payment @ 4.5%, 30yr | ~45,600 CZK |
+| Monthly payment @ 4.9%, 30yr | ~47,700 CZK |
+| % of conservative income (110k) | **43.4%** — very close to 45% DSTI limit |
+| % of total income (165k) | **28.9%** — comfortable |
+| Down payment gap | **✅ ~98k buffer remaining** |
 
 ### Scenario C — 5,000,000 CZK (Strašnice/Hostivař alternative)
 
 | Item | Amount |
 |------|--------|
 | Purchase price | 5,000,000 |
-| Down payment (20%) | 1,000,000 |
-| Mortgage | 4,000,000 |
-| Monthly payment @ 4.9%, 30yr | ~21,200 CZK |
-| % of conservative income (110k) | **19.3%** — very comfortable |
-| % of total income (165k) | **12.8%** — easy |
+| Down payment (10%, under-36 LTV) | **500,000** ✅ |
+| Mortgage | 4,500,000 |
+| Monthly payment @ 4.9%, 30yr | ~23,850 CZK |
+| % of conservative income (110k) | **21.7%** — very comfortable |
+| % of total income (165k) | **14.5%** — easy |
 
 ---
 
@@ -145,9 +147,12 @@ From your portfolio tracking (February 2026):
 | Mortgage savings (in cash) | ~1,098,000 CZK |
 | Safety net (separate) | 300,000 CZK |
 
-**For Vršovice (9–10M), you currently need 1.8–2.0M down payment — you have ~1.1M saved. Gap of ~700k–900k.**
+**With the under-36 rule (10% LTV), you are already funded for a 9M Vršovice apartment today.**
 
-At ~165k/month total income and normal living expenses, saving ~200–300k/month is realistic → **gap closeable in 3–5 months** if you direct RSU/bonus income toward it.
+| Scenario | Down payment needed | You have | Buffer |
+|----------|-------------------|----------|--------|
+| 9M apartment | 900,000 | ~1,098,000 | +198,000 ✅ |
+| 10M apartment | 1,000,000 | ~1,098,000 | +98,000 ⚠️ slim |
 
 ### Additional purchase costs to budget for
 | Cost | Estimate |
@@ -159,7 +164,7 @@ At ~165k/month total income and normal living expenses, saving ~200–300k/month
 | Reserve buffer | 100,000 CZK |
 | **Total extra** | **~175,000–320,000 CZK** |
 
-*For a 9M Vršovice apartment, target having ~2.1M in cash before committing (1.8M down + ~300k buffer).*
+*For a 9M apartment: buffer of 198k is tight once you factor in extra costs. Ideally have ~1.2M before pulling the trigger. For 10M: wait for next RSU/bonus payment first.*
 
 ---
 
