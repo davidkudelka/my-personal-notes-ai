@@ -8,32 +8,44 @@ This is David Kudelka's personal Obsidian knowledge vault — a markdown-based p
 
 ## Repository Structure
 
-- **Daily notes/** — Daily journal entries organized by year (2024/, 2025/)
-- **Roam/** — ~2,249 markdown files imported from Roam Research, covering historical notes from 2020+
-- **Learning/** — AI learning materials and resources
-- **Sloth app/** — Side project: a Docker/Tailscale relay service running on a Raspberry Pi
-- **Research UX/** — UX research, cost analysis, MVP planning
-- **Project feedback/** — Feedback from professional projects
-- **Therapy/** — Personal session notes
-- **Home page.md** — Top-level navigation hub linking to main knowledge areas
+```
+├── Finance/              — Investment portfolio, budget, taxes, finance books
+│   └── Investment Portfolio Tracking.md   ← frequently accessed, most important file
+├── Work/
+│   ├── Crave/            — Crave food service project notes
+│   ├── Productboard/     — Productboard company notes, ADRs, performance reviews
+│   ├── Plextrac/         — Plextrac GraphQL project notes
+│   └── Other/            — OAK'S LAB, job search, interviews, freelance
+├── Learning/
+│   ├── Tech/             — React, GraphQL, Relay, testing, system design notes
+│   └── Books/            — Book notes (Composing Software series, PKM, productivity)
+├── People/               — Mentoring notes, 1on1s, performance feedback
+├── Personal/             — Health, habits, dog, travel, personal development
+├── Daily notes/          — Daily journal entries by year (2024/, 2025/, 2026/)
+├── Sloth app/            — Docker/Tailscale relay service on Raspberry Pi
+├── Research UX/          — MVP research, cost analysis, project task tracking
+├── Project feedback/     — Feedback documents on external projects
+├── Therapy/              — Personal therapy session notes
+└── Roam/
+    └── david_kudelka_notes/
+        └── Daily/        — Legacy Roam Research daily notes (2020–2024, 723 files)
+```
 
-## Content Organization Conventions
+## Key Files
 
-- Notes use Obsidian wiki-links (`[[Note Title]]`) for internal linking
-- Daily notes follow the format `YYYY-MM-DD.md` or descriptive titles under `Daily notes/YYYY/`
-- The `Roam/david_kudelka_notes/` directory is a legacy import — treat as read-mostly historical context
-- Recent top-level dated files (e.g., `2026-02-14.md`) are the most current working notes
+- **Finance/Investment Portfolio Tracking.md** — Monthly portfolio snapshots since Feb 2023, actively updated around the 21st of each month. Has YAML frontmatter with tags.
+- **Home page.md** — Top-level navigation hub.
+
+## Content Conventions
+
+- Notes use Obsidian wiki-links (`[[Note Title]]`) for internal linking.
+- Daily notes follow `YYYY-MM-DD.md` format under `Daily notes/YYYY/`.
+- `Roam/david_kudelka_notes/Daily/` is a read-only historical archive (Roam Research import, 2020–2024).
+- Tags use YAML frontmatter (`tags:` list) in newer files, or inline `* tags: #tag` style in legacy Roam imports. Be consistent with the existing style of the file being edited.
 
 ## Key Projects Documented
 
-- **Sloth app**: Relay service using Tailscale + Docker on a Raspberry Pi, with a ChatGPT integration planned
-- **Productboard / Plextrac**: Professional work contexts documented in Roam notes
-- **Crave**: A food service project referenced in older notes
-
-## Working in This Vault
-
-Since this is a notes repository, operations here typically involve:
-- Reading and synthesizing existing notes
-- Creating or updating markdown files
-- Organizing or restructuring note hierarchies
-- No compilation, testing, or deployment steps exist
+- **Sloth app**: Relay service using Tailscale + Docker on a Raspberry Pi (`Sloth app/Basic Information.md` has maintenance commands and IPs).
+- **UX Research project**: AI-powered screenshot tagging tool with Cloudflare R2, DigitalOcean, and Clerk (`Research UX/`).
+- **Crave**: Food service startup (~2020–2021 era, archived in `Work/Crave/`).
+- **Productboard**: Detailed technical work notes 2021–2023 in `Work/Productboard/`.

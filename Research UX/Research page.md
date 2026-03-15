@@ -1,3 +1,5 @@
+tags: #project #research #mvp #ux
+
 ###### Research phase
 - [ ] research model for extraction of description and tags from UI screenshot
 - ChatGPT can do this for us

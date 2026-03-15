@@ -1,4 +1,6 @@
 
+tags: #project #sloth-app #raspberry-pi #docker #tailscale
+
 ###### Tailscale
 - Raspberry PI tailscale IP address - 100.77.36.76
 - funnel URL - https://raspberry-david.tailab87be.ts.net/
