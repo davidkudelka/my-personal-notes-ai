@@ -36,24 +36,23 @@ Prague-wide apartment prices rising ~14% year-over-year.
 
 ### Realistic price range for 2kk, 40–50m² (personal ownership / OV)
 
-| Type | Price range | Notes |
-|------|------------|-------|
-| Older panel building (panelák), renovated | 3,500,000–4,500,000 | Strašnice, Malešice, Záběhlice |
-| Standard brick building | 4,500,000–5,500,000 | Strašnice, Hostivař, Vršovice |
-| Newer construction / Vršovice premium | 5,500,000–7,000,000 | Best locations, modern builds |
+| Area | Price/m² | 45m² estimate | Notes |
+|------|---------|--------------|-------|
+| Dolní Měcholupy, Záběhlice | ~100,000 | ~4,500,000 | Suburban, far from centre |
+| Hostivař, Malešice, Strašnice | ~110,000–120,000 | ~5,000,000–5,500,000 | Residential, good value |
+| **Vršovice** | **~175,000–230,000** | **~8,000,000–10,500,000** | Trendy, central, premium |
 
 > **Important:** Some listings at 2.3–2.6M CZK are **cooperative flats (družstevní byt)** — you buy a membership share, not the property. You cannot get a standard mortgage on these. Stick to **OV (osobní vlastnictví)** listings.
 
-### Current live listings sampled (March 2026)
-| Price | Size | Location | Notes |
-|-------|------|----------|-------|
-| 2,390,000 | 41m² | Honzíkova, Dolní Měcholupy | Cooperative — not OV |
-| 2,526,117 | 46m² | K topírně, Vršovice | New construction project |
-| 3,395,000 | 40m² | Honzíkova, Dolní Měcholupy | Cooperative — not OV |
-| 3,999,000 | 47.6m² | K Botiči, Vršovice | New development |
-| 6,490,000 | 39.4m² | Zápasnická, Hostivař | Reconstructed panel |
+### Vršovice live listings (March 2026, bezrealitky.cz)
+| Price | Size | Street | Price/m² |
+|-------|------|--------|---------|
+| 8,999,900 | 42m² | Bulharská | 214,000 |
+| 9,499,900 | 54m² | Ruská | 176,000 |
+| 9,900,000 | 43m² | 28. pluku | 230,000 |
+| 11,900,000 | 48m² | Orelská | 248,000 |
 
-**Realistic budget target: 4,500,000–5,500,000 CZK** for a decent 2kk in good condition, OV, in an acceptable location.
+**Vršovice realistic budget: 9,000,000–10,500,000 CZK** for a 2kk 40–50m² in OV.
 
 ---
 
@@ -100,41 +99,40 @@ Prague-wide apartment prices rising ~14% year-over-year.
 
 ## Scenario Analysis
 
-### Scenario A — 4,500,000 CZK apartment
+### Scenario A — 9,000,000 CZK (Vršovice, lower end ~42m²)
 
 | Item | Amount |
 |------|--------|
-| Purchase price | 4,500,000 |
-| Down payment (20%) | 900,000 |
-| Mortgage | 3,600,000 |
-| Monthly payment @ 4.5%, 30yr | ~18,200 CZK |
-| Monthly payment @ 4.9%, 30yr | ~19,100 CZK |
-| % of conservative income (110k) | **17.4%** |
-| % of total income (165k) | **11.6%** |
+| Purchase price | 9,000,000 |
+| Down payment (20%) | 1,800,000 |
+| Mortgage | 7,200,000 |
+| Monthly payment @ 4.5%, 30yr | ~36,500 CZK |
+| Monthly payment @ 4.9%, 30yr | ~38,200 CZK |
+| % of conservative income (110k) | **34.7%** — approaching DSTI limit |
+| % of total income (165k) | **23.2%** — comfortable |
 
-### Scenario B — 5,000,000 CZK apartment
+### Scenario B — 10,000,000 CZK (Vršovice, mid-range ~45m²)
+
+| Item | Amount |
+|------|--------|
+| Purchase price | 10,000,000 |
+| Down payment (20%) | 2,000,000 |
+| Mortgage | 8,000,000 |
+| Monthly payment @ 4.5%, 30yr | ~40,500 CZK |
+| Monthly payment @ 4.9%, 30yr | ~42,400 CZK |
+| % of conservative income (110k) | **38.5%** — still under 45% limit but tight |
+| % of total income (165k) | **25.7%** — fine |
+
+### Scenario C — 5,000,000 CZK (Strašnice/Hostivař alternative)
 
 | Item | Amount |
 |------|--------|
 | Purchase price | 5,000,000 |
 | Down payment (20%) | 1,000,000 |
 | Mortgage | 4,000,000 |
-| Monthly payment @ 4.5%, 30yr | ~20,250 CZK |
 | Monthly payment @ 4.9%, 30yr | ~21,200 CZK |
-| % of conservative income (110k) | **19.3%** |
-| % of total income (165k) | **12.8%** |
-
-### Scenario C — 5,500,000 CZK apartment (Vršovice level)
-
-| Item | Amount |
-|------|--------|
-| Purchase price | 5,500,000 |
-| Down payment (20%) | 1,100,000 |
-| Mortgage | 4,400,000 |
-| Monthly payment @ 4.5%, 30yr | ~22,300 CZK |
-| Monthly payment @ 4.9%, 30yr | ~23,300 CZK |
-| % of conservative income (110k) | **21.2%** |
-| % of total income (165k) | **14.1%** |
+| % of conservative income (110k) | **19.3%** — very comfortable |
+| % of total income (165k) | **12.8%** — easy |
 
 ---
 
@@ -147,7 +145,9 @@ From your portfolio tracking (February 2026):
 | Mortgage savings (in cash) | ~1,098,000 CZK |
 | Safety net (separate) | 300,000 CZK |
 
-**You already have enough for a 20% down payment on a 5M apartment** (needs 1,000,000). For 5.5M you'd need ~1.1M — essentially there.
+**For Vršovice (9–10M), you currently need 1.8–2.0M down payment — you have ~1.1M saved. Gap of ~700k–900k.**
+
+At ~165k/month total income and normal living expenses, saving ~200–300k/month is realistic → **gap closeable in 3–5 months** if you direct RSU/bonus income toward it.
 
 ### Additional purchase costs to budget for
 | Cost | Estimate |
@@ -156,10 +156,10 @@ From your portfolio tracking (February 2026):
 | Bank mortgage fees | 0–20,000 CZK (many banks waive) |
 | Property inspection | 5,000–10,000 CZK |
 | Moving + initial furnishing | 50,000–150,000 CZK |
-| Reserve buffer | 50,000 CZK |
-| **Total extra** | **~125,000–270,000 CZK** |
+| Reserve buffer | 100,000 CZK |
+| **Total extra** | **~175,000–320,000 CZK** |
 
-*Keep at least 200k buffer above the down payment. With ~1.1M saved and a 1M down payment, you have just ~100k buffer — might want to wait another month or two of saving, or target a 4.5M apartment.*
+*For a 9M Vršovice apartment, target having ~2.1M in cash before committing (1.8M down + ~300k buffer).*
 
 ---
 
