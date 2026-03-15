@@ -195,6 +195,89 @@ From your portfolio tracking (February 2026):
 
 ---
 
+---
+
+## Rent vs. Buy Analysis
+
+### Rental prices in Vršovice — 2kk, 40–50m² (March 2026)
+
+| Street | Size | Monthly rent |
+|--------|------|-------------|
+| Holandská | 45m² | 18,400 CZK |
+| 28. pluku | 43m² | 16,000 CZK |
+| Donská | 45m² | 15,990 CZK |
+| Charkovská | 49m² | 22,000 CZK |
+| Mexická | 48m² | 26,000 CZK |
+| Na Spojce | 47m² | 28,000 CZK |
+
+**Realistic rent for 40–50m² Vršovice: 18,000–26,000 CZK/month.** Midpoint ~22,000 CZK.
+
+### Monthly cost comparison
+
+| | Buying (9M, 10% down) | Renting |
+|-|----------------------|---------|
+| Monthly payment | ~43,000 CZK | ~22,000 CZK |
+| HOA + property tax | ~2,000–3,000 CZK | 0 |
+| Maintenance reserve | ~2,000–3,000 CZK | 0 |
+| **Total monthly** | **~47,000–49,000 CZK** | **~22,000 CZK** |
+| **Monthly gap** | | **~25,000–27,000 CZK** |
+
+### 10-year projection
+
+**Renting + investing the difference:**
+- 900,000 CZK down payment → invested in ETFs at 8%/year: **~1,940,000 CZK**
+- Monthly difference of 25,000 CZK invested at 8%/year for 10 years: **~4,570,000 CZK**
+- **Total investable wealth: ~6,500,000 CZK**
+
+**Buying:**
+- Property value at 6% annual appreciation: 9M → **~16,100,000 CZK**
+- Property value at 3% annual appreciation: 9M → **~12,100,000 CZK**
+- Remaining mortgage after 10 years: ~**6,900,000 CZK** (early years = mostly interest)
+- **Net equity at 6% appreciation: ~9,200,000 CZK**
+- **Net equity at 3% appreciation: ~5,200,000 CZK**
+
+| Scenario | After 10 years |
+|----------|---------------|
+| Rent + invest (8% stock returns) | ~6,500,000 CZK |
+| Buy (6% Prague appreciation) | ~9,200,000 CZK — buying wins |
+| Buy (3% Prague appreciation) | ~5,200,000 CZK — renting wins |
+
+**Break-even property appreciation: ~4–5% per year** — above that, buying wins; below that, renting + investing wins.
+
+Prague long-term historical appreciation: ~5–7% per year. Recent: 14%/year (exceptional).
+
+### Key buying advantages
+- **Leverage**: 900k down on 9M asset — 6% appreciation = 540k gain = 60% return on capital in year 1
+- **Rent inflation hedge**: Vršovice rents have been rising ~10%/year — in 5 years your rent could be 35k/month
+- **Forced savings**: mortgage builds equity even without discipline
+- **Prague supply shortage**: structural undersupply makes property a stronger bet than most cities
+- **Stability**: no landlord risk, renovate freely, pets, long-term security
+
+### Key renting advantages
+- **Flexibility**: job change, moving abroad, life changes — no lock-in
+- **Liquidity**: 900k stays investable and accessible
+- **No concentration risk**: owning 9M in one illiquid asset in one city
+- **Early years math**: in year 1, ~33,000 CZK/month of the 43k payment is pure interest — renting at 22k is cheaper by ~11k even before maintenance/HOA
+- **Mortgage interest not tax-deductible in CZ** (abolished 2021) — full interest cost is dead money
+
+### Honest verdict
+
+This is genuinely close. **Buying wins if you:**
+- Plan to stay in Prague 10+ years
+- Believe Prague property will appreciate 5%+ per year
+- Value stability and want to stop moving
+
+**Renting wins if you:**
+- Might move cities or abroad in the next 3–5 years
+- Are highly disciplined about investing the monthly difference (the key assumption)
+- Prefer flexibility during a period of major life changes (career, family, relationships)
+
+**The strongest argument for renting right now**: the monthly gap is ~25k CZK — that's real money going into investments every month, and ETFs have historically outperformed property in most 10-year windows when leverage is excluded.
+
+**The strongest argument for buying**: Prague property supply is structurally constrained, you have the income to comfortably absorb the mortgage, and rent inflation means the gap shrinks every year.
+
+---
+
 ## Next Steps
 
 - [ ] Define target neighbourhood (Vršovice vs Strašnice vs Hostivař priority)
