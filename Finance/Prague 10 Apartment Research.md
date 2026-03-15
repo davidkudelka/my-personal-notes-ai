@@ -283,5 +283,4 @@ This is genuinely close. **Buying wins if you:**
 - [ ] Define target neighbourhood (Vršovice vs Strašnice vs Hostivař priority)
 - [ ] Set up alerts on sreality.cz and bezrealitky.cz for 2kk, 40–55m², Praha 10, OV
 - [ ] Get pre-approval (hypoteční příslib) from 2–3 banks to know exact offer
-- [ ] Consult Petra Vanečková — confirm tax implications of using mortgage savings
 - [ ] Decide: 4.5M budget (very safe) vs 5–5.5M (comfortable but uses full savings)
